@@ -150,7 +150,7 @@
     #define    IDM_EDIT_SW2TAB_LEADING              (IDM_EDIT + 53)
     #define    IDM_EDIT_SW2TAB_ALL                  (IDM_EDIT + 54)
     #define    IDM_EDIT_STREAM_UNCOMMENT            (IDM_EDIT + 47)
-
+    #define     IDM_VIEW_WRAP_TOGGLE                (IDM_EDIT + 48)
 // Menu macro
     #define    IDM_MACRO_SAVECURRENTMACRO           (IDM_EDIT + 25)
 //-----------
